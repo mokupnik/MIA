@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613612786 source:c:\users\vb\desktop\mia2021\eliminacje2\problem-b\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<algorithm>
+

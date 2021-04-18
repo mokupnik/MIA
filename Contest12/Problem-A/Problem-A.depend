@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613622495 source:c:\users\vb\desktop\mia2021\contest12\problem-a\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+

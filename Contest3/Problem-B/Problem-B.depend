@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613670638 source:c:\users\vb\desktop\mia2021\contest3\problem-b\main.cpp
+	<iostream>
+	<unordered_map>
+	<algorithm>
+

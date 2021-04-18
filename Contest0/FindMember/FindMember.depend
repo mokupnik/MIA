@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613698680 source:c:\users\vb\desktop\mia2021\contest0\findmember\main.cpp
+	<iostream>
+	<unordered_map>
+	<algorithm>
+
