@@ -1,1 +1,1 @@
-Algorithms from numerous contests at CodeForces
+Solutions to numerous contests at CodeForces
